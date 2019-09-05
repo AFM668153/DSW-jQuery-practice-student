@@ -6,3 +6,7 @@ $("h1").click(function(){
 $("p1").click(function(){
   $("par").hide();
 });
+
+$("p1").click(function(){
+  $("img").show();
+});
